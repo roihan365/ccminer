@@ -1,2 +1,3 @@
 screen -d -m ./run
-./notif-telegram.sh
+nohup ./notif-telegram.sh &
+
