@@ -4,5 +4,6 @@ sudo chmod +x build.sh
 sudo chmod +x configure.sh
 sudo chmod +x autogen.sh
 sudo chmod +x ccminer
+sudo chmod +x notif-telegram.sh
 
 sudo ./build.sh
